@@ -1,16 +1,16 @@
 @import url(../normalize.css);
-@font-face { 
+/* @font-face { 
     font-family: "Raleway";
     src: url("./Raleway-VariableFont_wght.woff") format("woff");
     font-style: normal;
     font-weight: 900;
-}
-/* @font-face { 
+} */
+@font-face { 
     font-family: "Raleway";
-    src: url("./Raleway-Italic-VariableFont_wght.woff") format("woff");
+    src: url("./ofont.ru_Raleway.woff") format("woff");
     font-style: normal;
     font-weight: 700;
-} */
+}
 @font-face { 
     font-family: "Roboto";
     src: url("./Roboto-Bold.woff") format("woff");
