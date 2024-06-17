@@ -239,7 +239,7 @@ p {
 }
 
 .footer__icon {
-    inline-size: 100%;
+    inline-size: 50px;
     object-fit: cover;
 }
 
